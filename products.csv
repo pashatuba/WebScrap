@@ -1,13 +1,21 @@
-brands, product_name, shipping
-GIGABYTE,GIGABYTE GeForce GTX 1070 DirectX 12 GV-N1070WF2OC-8GD Video Cards,Free Shipping
-EVGA,EVGA GeForce GTX 1080 SC GAMING ACX 3.0| 08G-P4-6183-KR| 8GB GDDR5X| LED| DX12 OSD Support (PXOC),Free Shipping
-XFX,XFX Radeon RX 470 RS Triple X DirectX 12 RX-470P436BM 4GB 256-Bit GDDR5 PCI Express 3.0 CrossFireX Support Video Card,$3.99 Shipping
-ASUS,ASUS Radeon RX 480 DirectX 12 DUAL-RX480-O8G Video Card,$4.99 Shipping
-ZOTAC,ZOTAC GeForce GTX 1080 Ti AMP Edition 11GB GDDR5X 352-bit Gaming Graphics Card VR Ready 16+2 Power Phase Freeze Fan Stop IceStorm Cooling Spectra Lighting ZT-P10810D-10P,$6.99 Shipping
-ASUS,ASUS ROG GeForce GTX 1080 STRIX-GTX1080-A8G-GAMING Video Card,Free Shipping
-EVGA,EVGA GeForce GTX 1070 SC GAMING ACX 3.0 Black Edition| 08G-P4-5173-KR| 8GB GDDR5| LED| DX12 OSD Support (PXOC),Free Shipping
-GIGABYTE,GIGABYTE Radeon RX 480 G1 Gaming 4GB GV-RX480G1GAMING-4GD Video Card,$4.99 Shipping
-XFX,XFX Radeon RS RX 480 DirectX 12 RX-480P836BM 8GB 256-Bit GDDR5 PCI Express 3.0 CrossFireX Support Video Card,$4.99 Shipping
-ZOTAC,ZOTAC GeForce GTX 1070 Mini| ZT-P10700G-10M| 8GB GDDR5,Free Shipping
-MSI,MSI Radeon RX 480 DirectX 12 Radeon RX 480 4G Video Card,$4.99 Shipping
-XFX,XFX Radeon GTR RX 480 DirectX 12 RX-480P8DBA6 Black Edition Video Card,$4.99 Shipping
+title, price, in stock
+A Light in the Attic,£51.77,In stock
+Tipping the Velvet,£53.74,In stock
+Soumission,£50.10,In stock
+Sharp Objects,£47.82,In stock
+Sapiens: A Brief History of Humankind,£54.23,In stock
+The Requiem Red,£22.65,In stock
+The Dirty Little Secrets of Getting Your Dream Job,£33.34,In stock
+The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull,£17.93,In stock
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,£22.60,In stock
+The Black Maria,£52.15,In stock
+Starving Hearts (Triangular Trade Trilogy, #1),£13.99,In stock
+Shakespeare's Sonnets,£20.66,In stock
+Set Me Free,£17.46,In stock
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),£52.29,In stock
+Rip it Up and Start Again,£35.02,In stock
+Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991,£57.25,In stock
+Olio,£23.88,In stock
+Mesaerion: The Best Science Fiction Stories 1800-1849,£37.59,In stock
+Libertarianism for Beginners,£51.33,In stock
+It's Only the Himalayas,£45.17,In stock
